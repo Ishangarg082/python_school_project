@@ -1,0 +1,6 @@
+Name 4
+ID Zaccaria
+Class 5
+Fees per Month 1800
+Months pending 0
+Total Fees Pending 0

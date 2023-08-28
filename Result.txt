@@ -1,0 +1,21 @@
+Name Zaccaria
+student id 4
+
+Class 5
+
+
+exam midterm
+marks 361
+out of 500
+
+
+Class 5
+
+
+exam finalexam
+marks 493
+out of 500
+
+
+Total marks obtained 854
+Percentage 85.4
